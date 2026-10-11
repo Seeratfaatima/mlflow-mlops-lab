@@ -1,0 +1,16 @@
+# Virtual environment
+mlflow_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# Local MLflow database & artifacts store (models/plots)
+mlflow.db
+mlflow.db*
+mlruns/
