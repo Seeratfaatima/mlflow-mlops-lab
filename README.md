@@ -20,3 +20,4 @@ mlflow ui --backend-store-uri sqlite:///mlflow.db
 
 # 3. Run the automated tournament pipeline
 python mlops_pipeline.py
+```
